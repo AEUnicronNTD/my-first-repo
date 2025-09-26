@@ -1,0 +1,33 @@
+*{background-color: rgb(223, 223, 223);}
+
+.button1 {
+    background-color:white;
+    font-size: 25px;
+    margin: 20px 20px 40px 0px;
+}
+
+button:hover,
+.button1:hover {
+    background-color: #cccccc;
+}
+
+button {
+    background-color:white;
+    font-size: 25px;
+    margin: 0px 20px 20px 0px;
+    cursor: pointer;
+}
+
+
+img {
+    height:200px;
+    display:block;
+    margin-top:50px;
+}
+
+p {
+    font-size: 25px;
+    color:red;
+}
+
+
